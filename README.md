@@ -2,7 +2,7 @@
 
 I'm a web developer based in El Salvador! 🇸🇻
 
-- 🔭 I’m currently working on Next.js 7 GraphQL experiments
+- 🔭 I’m currently working on Next.js, Nuxt.js, Tailwind CSS, and GraphQL experiments
 - 🌱 I’m currently learning all I can 😁
 - 👯 I’m looking to collaborate on more open source projects
 - ⚡ Fun fact: I love to play piano / guitar, and play around with FL Studio
