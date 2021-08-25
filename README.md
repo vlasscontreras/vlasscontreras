@@ -2,7 +2,7 @@
 
 I'm a web developer based in El Salvador! 🇸🇻
 
-- 🔭 I’m currently working on NestJS experiments
+- 🔭 I’m currently working on NestJS and Serverless experiments
 - 🌱 I’m currently learning all I can 😁
 - 👯 I’m looking to collaborate on more open source projects
 - ⚡ Fun fact: I love to play piano / guitar, and play around with FL Studio
